@@ -1,3 +1,4 @@
+//1st-prblm
 class Solution {
      public double nthPersonGetsNthSeat(int n) {
          if(n==1)
