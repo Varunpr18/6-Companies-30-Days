@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//6th problem
 class Solution {
 
     public static int numOfNodes(TreeNode node){
