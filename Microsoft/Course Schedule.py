@@ -1,3 +1,4 @@
+//2nd-prblm
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         premap={i:[] for i in range(numCourses)}
