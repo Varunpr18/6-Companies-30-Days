@@ -1,3 +1,4 @@
+//10th-prblm
 class Solution {
     public int numberOfBoomerangs(int[][] points) {
         int res = 0;        
