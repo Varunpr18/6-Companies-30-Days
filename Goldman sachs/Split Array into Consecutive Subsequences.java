@@ -1,3 +1,4 @@
+//2nd-prblm
 class Solution {
     public boolean isPossible(int[] nums) {
         Map<Integer, Integer> avail = new HashMap<>();
