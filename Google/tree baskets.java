@@ -1,3 +1,4 @@
+//6th-prblm
 class Solution {
     public int totalFruit(int[] fruits) {
         int i=0,j=0,size=0;
