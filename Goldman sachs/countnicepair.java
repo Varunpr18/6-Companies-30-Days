@@ -1,9 +1,5 @@
-class Solution {
-    // num[i] - rev(num[i]) == num[j] - rev[num[j]]
-    // How many pairs in B satisfy below condition 
-    // B[i] == B[j]
-    
-   
+//4th-prblm
+class Solution { 
 public int countNicePairs(int[] nums) {
     int finalCount = 0;
     int mod = (int)Math.pow(10,9) + 7;
