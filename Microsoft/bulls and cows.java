@@ -1,3 +1,4 @@
+//th-prblm
 class Solution {
  public String getHint(String secret, String guess) {
 		int[] gu = new int[10];
