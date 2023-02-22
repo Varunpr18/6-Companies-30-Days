@@ -1,3 +1,4 @@
+//10th sum
 class Solution {
   public:
     vector<int> max_of_subarrays(vector<int> arr, int n, int k) {
