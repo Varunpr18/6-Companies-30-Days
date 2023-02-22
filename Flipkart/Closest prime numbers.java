@@ -1,3 +1,4 @@
+//2nd-prblm
 class Solution {
     public int[] closestPrimes(int left, int right) {
         boolean k[]=new boolean[right+1];
