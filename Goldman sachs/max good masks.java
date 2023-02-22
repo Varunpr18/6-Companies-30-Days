@@ -1,4 +1,4 @@
-//6th-prblm
+//7th-prblm
 class Solution {
     public int maximumGood(int[][] sts) {
         // 1. generate bitmask
