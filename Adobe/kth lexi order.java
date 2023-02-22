@@ -1,3 +1,4 @@
+//10th-prblm
 class Solution {
     public int findKthNumber(int n, int k) {
         long cur = 1;
